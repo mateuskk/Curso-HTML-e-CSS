@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+}
+
+.container {
+    border: solid white; height: 85vh; width: 90vw; border-radius: 10px; background-color: white;
+    margin-top: 6vh;
+
+
+}
